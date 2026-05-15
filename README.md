@@ -1,4 +1,3 @@
----
 
 # 🏢 Ghid de Pornire - Proiect Gestiune Asociație "Bloc X69"
 
@@ -71,4 +70,3 @@ Puteți folosi următoarele conturi pentru a testa funcționalitățile aplicaț
 * **Testing:** Pytest
 * **Frontend:** HTML5, CSS3 (Sidebar template)
 
----
